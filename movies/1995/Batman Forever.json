@@ -1,0 +1,22 @@
+{
+  "name": "Batman Forever",
+  "year": 1995,
+  "runtime": 85,
+  "categories": [
+    "action",
+    "advanture",
+    "fantacy"
+  ],
+  "release-date": " 16-6-1995",
+  "director": "Joel Schumacher",
+  "writer": [
+    "Bob Kane",
+    "Lee Batchler"
+  ],
+  "actors": [
+    "Val Kilmer",
+    "Tommy Lee Jones",
+    " Jim Carrey"
+  ],
+  "storyline": "Batman must battle former district attorney Harvey Dent, who is now Two-Face and Edward Nygma, The Riddler with help from an amorous psychologist and a young circus acrobat who becomes his sidekick, Robin."
+}
